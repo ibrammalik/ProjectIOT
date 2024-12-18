@@ -83,8 +83,8 @@ Proyek ini bertujuan untuk memantau suhu dan kelembapan suatu ruangan secara rea
 
 ## Dokumentasi
 
-- Video Demo: [YouTube Link](#)
-- Source Code: [GitHub Repository](#)
+- Video Demo: [https://youtu.be/nGiSx0rWfb8](#)
+- Source Code: [https://github.com/ibrammalik/ProjectIOT](#)
 
 ## Penutup
 
